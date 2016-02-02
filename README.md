@@ -5,3 +5,7 @@ This is a web application created to show CPU and RAM usage graphs dynamically i
 Version 1.0 should work perfectly fine on any Linux system with no special features enabled. In fact a cool feature of it is that it will even work on shared hosting so you can see how loaded the web space you are paying for is!
 
 Original author: Steve Stone
+
+##TODO
+
+- Change the charts to use <http://smoothiecharts.org/>
